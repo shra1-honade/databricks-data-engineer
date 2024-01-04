@@ -1,15 +1,21 @@
 # Databricks Certified Data Engineer Associate
 
-This repository will help you with the following 
-•	Build ETL pipelines using Apache Spark SQL and Python, including:
-    o	Relational entities (databases, tables, views)
-    o	ELT (creating tables, writing data to tables, cleaning data, combining and reshaping tables, SQL UDFs)
-    o	Python (facilitating Spark SQL with string manipulation and control flow, passing data between PySpark and Spark SQL)
-•	Incrementally process data, including:
-    o	Structured Streaming (general concepts, triggers, watermarks)
-    o	Auto Loader (streaming reads)
-    o	Multi-hop Architecture (bronze-silver-gold, streaming applications)
-    o	Delta Live Tables (benefits and features)
+<ul>
+  <li>This repository will help you with the following</li>
+  <ul>
+    <li>Build ETL pipelines using Apache Spark SQL and Python, including:</li>
+      <ul>
+        <li>Relational entities (databases, tables, views)</li>
+        <li>ELT (creating tables, writing data to tables, cleaning data, combining and reshaping tables, SQL UDFs)</li>
+        <li>Python (facilitating Spark SQL with string manipulation and control flow, passing data between PySpark and Spark SQL)</li>
+      </ul>
+    <li>Incrementally process data, including:</li>
+      <ul>
+        <li>Structured Streaming (general concepts, triggers, watermarks)</li>
+        <li>Auto Loader (streaming reads)</li>
+        <li>Multi-hop Architecture (bronze-silver-gold, streaming applications)</li>
+        <li>Delta Live Tables (benefits and features)</li>
+      </ul>
+  </ul>
+</ul>
 
-
-To import these resources into your Databricks workspace, clone this repository via Databricks Repos.
