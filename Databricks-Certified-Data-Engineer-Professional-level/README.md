@@ -25,4 +25,4 @@
 
 
 Above Material is developed from following course:
-<a> https://www.udemy.com/course/databricks-certified-data-engineer-professional/?referralCode=F0FA48E9A0546C975F14</a>
+<a href="https://www.udemy.com/course/databricks-certified-data-engineer-professional/?referralCode=F0FA48E9A0546C975F14" target="_blank">Click Here</a>
